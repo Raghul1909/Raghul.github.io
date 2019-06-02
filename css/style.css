@@ -1,3 +1,10 @@
+.photo
+{
+  width: 150px;
+  height: 150px;
+  border: 5px solid #FFF;
+  border-radius: 50%;
+}
 
 body {
 	padding: 0;
@@ -115,11 +122,11 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 
 .banner {
     background: #02cfd4;
-    padding-top: 50px;
+    padding-top: 5px;
 }
 .banner-right {
-    margin: 200px auto 0;
-    margin-bottom: 200px;
+    margin: 130px auto 0;
+    margin-bottom: 130px;
     text-align: center;
 }
 .banner-right h1 {
